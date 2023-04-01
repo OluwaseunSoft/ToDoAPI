@@ -17,6 +17,6 @@ public class ToDoModelTests
         testToDo.Name = "Error error";
 
         //Assert
-        Assert.Equal("Error error", testToDo.Name);
+        Assert.Equal("Error Pipeline", testToDo.Name);
     }
 }
